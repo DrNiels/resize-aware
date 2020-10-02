@@ -1,3 +1,5 @@
+This is a conversion of the resize-aware element from mlisook (https://www.webcomponents.org/element/mlisook/resize-aware/elements/resize-aware) with some minor adjustments. The readme was not updated and is still the one from the original resize-aware element!
+
 # resize-aware
 
 Container element that is aware of, and notifies of, changes to its size.
